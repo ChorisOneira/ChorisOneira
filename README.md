@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ChorisOneira
+- 👀 I’m interested in pursuing software development.
+- 🌱 I’m currently learning python
+- 💞️ I’m looking to collaborate on basic python work to practice my skils.
+- 📫 How to reach me: Email - Edgar_Gonzalez2004@yahoo.com Phone - 956-317-9764
